@@ -106,6 +106,6 @@ for linha in tabela.index:
     pyautogui.press("enter")
     pyautogui.scroll(4000)
 
-
 # 5.Repetir isso tudo ate acabar a lista de produtos
 # FIM
+# obrigado
